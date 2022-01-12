@@ -1,0 +1,3 @@
+ curl --insecure https://ascii-art.de/ascii/ab/007.txt
+\ 
+ curl -K https://ascii-art.de/ascii/ab/007.txt

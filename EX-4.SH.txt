@@ -1,0 +1,5 @@
+server1
+$ sudo bash -c "echo '192.168.100.11 server2' >> /etc/hosts"
+
+server2
+$ sudo bash -c "echo '192.168.100.10 server1' >> /etc/hosts"
